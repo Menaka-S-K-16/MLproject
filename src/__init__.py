@@ -1,0 +1,1 @@
+# to make src folder as package by find_packages() in setup.py
