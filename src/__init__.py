@@ -1,1 +1,1 @@
-# to make src folder as package by find_packages() in setup.py
+# to make src folder as package that can be imported anywhere in code.
